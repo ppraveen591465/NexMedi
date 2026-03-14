@@ -1,5 +1,4 @@
-
-
+# in app 
 # Create your views here.
 import os
 from django.conf import settings
