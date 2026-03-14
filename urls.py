@@ -1,3 +1,5 @@
+# in main app
+
 """
 URL configuration for NexMedi project.
 
